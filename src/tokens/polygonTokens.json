@@ -20862,5 +20862,18 @@
           "website": "https://tetu.io/"
         }
       }
+    },
+	{
+        "chainId": 137,
+        "name": "JCF",
+        "symbol": "JCF",
+        "decimals": 18,
+        "address": "0x68d6e2fe99d831e0ab2cd4f064708db6af82a77b",
+        "logoURI": "https://raw.githubusercontent.com/gitadce/tokenassets/main/jcf.png",
+        "tags": ["pos", "erc20"],
+        "extensions": {
+            "rootAddress": "0x68d6e2fe99d831e0ab2cd4f064708db6af82a77b"
+        }
     }
+    
 ]
